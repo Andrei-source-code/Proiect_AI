@@ -1,0 +1,207 @@
+id_cariera;cod_psihologic;titlu_job;facultate_ro / ?coalã;admitere_ro (Pa?i exac?i);facultate_strainatate;admitere_strainatate;pas_practic;salariu_mediu
+1;REALIST;Mecanic Auto;Liceu Tehnologic / ?coalã Profesionalã Auto / Curs Calificare ANC;1. Absolvire 10 clase sau Bacalaureat;DEKRA Akademie (Germania) / Berufsschule;1. Diplomã de studii medii;Practicã de minim 500 ore într-un service auto autorizat RAR.;1100
+;;;;;;;;
+;;;;2. Curs practic de mecanicã ?i diagnozã auto (6-12 luni);;2. Certificat limba germanã B1;;
+;;;;;;;;
+;;;;;;3. Stagiu de ucenicie dualã;;
+2;REALIST;Pompier;?coala de Subofi?eri de Pompieri Bolde?ti / Academia de Poli?ie;1. Diplomã Bacalaureat;National Fire Academy (SUA) / ENSOSP (Fran?a);1. Echivalare diploma bacalaureat;Stagiu de interven?ie pe autospeciale în cadrul ISU.;1300
+;;;;;;;;
+;;;;2. Evaluare psihologicã ?i medicalã strictã;;2. Teste de aptitudini fizice avansate;;
+;;;;;;;;
+;;;;3. Probã fizicã eliminatorie;;3. Certificat limbã (B2);;
+;;;;;;;;
+;;;;4. Examen grilã (Mate/Fizicã);;;;
+3;REALIST;Tâmplar;?coalã Profesionalã de Prelucrare a Lemnului / Curs Calificare;1. Absolvire minim 8-10 clase;Garnier College (UK) / Berufsschule;1. Certificat de calificare profesionalã nivel 2/3;Realizarea unui piesa de mobilier din lemn masiv ca probã practicã.;1000
+;;;;;;;;
+;;;;2. Practicã în ateliere de tâmplãrie/CNC;;2. Englezã nivel conversa?ional;;
+4;REALIST;Arheolog;UNIBUC / UBB Cluj - Facultatea de Istorie (Arheologie);1. Concurs de dosar (Medie Bacalaureat);University of Oxford / Leiden University (Olanda);1. Bacalaureat cu medie peste 9.0;Minim 2 ?antiere ?coalã de sãpãturi arheologice în timpul facultã?ii.;1100
+;;;;;;;;
+;;;;2. Masterat obligatoriu în Arheologie pentru atestare;;2. Certificat IELTS min. 7.0;;
+;;;;;;;;
+;;;;;;3. Scrisoare de inten?ie ?i eseu istoric;;
+5;REALIST;?ofer de Camion;?coalã de ?oferi (Cat. C, CE) + Centru Pregãtire ARR;1. Permis Cat. B (min. 1 an vechime);TÜV Rheinland Driving Academy (Germania);1. Permis conducere UE cat. C+E;Minim 100 ore de conducere simulator ?i traseu interna?ional.;2400
+;;;;;;;;
+;;;;2. Vârsta min. 21 ani;;2. Card Tahograf digital;;
+;;;;;;;;
+;;;;3. Aviz psihologic & medical;;3. Test de cunoa?tere a legisla?iei rutiere interna?ionale;;
+;;;;;;;;
+;;;;4. Examen ARR pentru Atestat Marfã (CPC);;;;
+6;REALIST;Bijutier;UNARTE (Arte Decorative) / ?coala de Bijuterie Contemporanã;1. Mape de schi?e / Proiect vizual;Alchimia School of Jewelry (Floren?a, Italia);1. Portofoliu artistic vizual;Tãierea, ?lefuirea ?i montarea unei pietre semipre?ioase pe monturã.;1200
+;;;;;;;;
+;;;;2. Curs specializat de modelare metale pre?ioase ?i ?intuire;;2. Interviu de evaluare a aptitudinilor manuale;;
+;;;;;;;;
+;;;;;;3. Limba englezã/italianã B2;;
+7;REALIST;Marinar;Academia Navalã „Mircea cel Bãtrân” / ?coala de Ma?tri Navali;1. Bacalaureat;Maritime University of Szczecin (Polonia) / TU Delft;1. Bacalaureat (profil Mate-Info min. 8.0);Stagiu de practicã naviga?ie de minim 6 luni pe nave comerciale (Cadet).;2200
+;;;;;;;;
+;;;;2. Visite medicale maritime speciale (ANR);;2. Test de înot ?i rezisten?ã fizicã;;
+;;;;;;;;
+;;;;3. Examen scris la Matematicã/Fizicã;;3. Certificat IELTS 6.5;;
+8;REALIST;Electrician;Liceu Tehnologic / Curs de Calificare Autorizat ANRE;1. Diploma 10 clase / Bacalaureat;EAL Vocational Qualifications (UK);1. Echivalare diploma tehnicã;Proiectarea ?i executarea tabloului electric al unei clãdiri reziden?iale.;1200
+;;;;;;;;
+;;;;2. Examen de autorizare ANRE (Gradul IIA/IIB);;2. Test de securitate electricã (18th Edition IET);;
+9;REALIST;Tehnician Dentar;UMF Carol Davila / UMF Cluj - Facultatea de Tehnicã Dentarã (3 ani);1. Examen grilã Biologie/Chimie;Karolinska Institutet (Suedia) / TU Dublin;1. Bacalaureat (Real min. 8.5);Modelarea manualã ?i digitalã (CAD/CAM) a 10 coroane dentare.;1400
+;;;;;;;;
+;;;;2. Medie Bacalaureat;;2. Certificat IELTS 6.5;;
+;;;;;;;;
+;;;;;;3. Probã practicã de sculpturã în cearã;;
+10;REALIST;Inginer Mecanic;UPB Bucure?ti / UTCN Cluj - Inginerie Mecanicã;1. Examen scris Matematicã/Fizicã (80%);ETH Zurich / RWTH Aachen (Germania);1. Bacalaureat Mate-Info (medie > 9.0);Modelarea 3D a unui ansamblu mecanic în SolidWorks sau AutoCAD.;1800
+;;;;;;;;
+;;;;2. Medie Bacalaureat (20%);;2. Certificat Germanã C1 (RWTH) sau Englezã 7.0 (ETH);;
+11;INVESTIGATIV;Meteorolog;UNIBUC - Facultatea de Fizicã / Geografie (Meteorologie);1. Medie Bacalaureat (100% sau concurs dosar);University of Reading (UK) - Meteorology;1. Bacalaureat profil Real (Mate/Fizicã min. 8.5);Interpretarea unei hãr?i sinoptice ?i rularea unui model numeric de vreme.;1300
+;;;;;;;;
+;;;;2. Concurs de angajare la ANM (Administra?ia Na?ionalã de Meteorologie);;2. Certificat IELTS 6.5+;;
+12;INVESTIGATIV;Antropolog;UNIBUC / UBB - Facultatea de Sociologie (Antropologie);1. Concurs de dosar (Medie Bacalaureat);KU Leuven (Belgia) / University of Amsterdam;1. Bacalaureat medie generalã min. 8.5;Minim 100 ore de cercetare de teren ?i redactarea unui studiu etnografic.;1200
+;;;;;;;;
+;;;;2. Sustinerea unei lucrãri de cercetare de teren;;2. Scrisoare de motiva?ie ?i eseu antropologic;;
+;;;;;;;;
+;;;;;;3. IELTS 7.0;;
+13;INVESTIGATIV;Farmacist;UMF Carol Davila / UMF Cluj - Farmacie (5 ani);1. Examen scris Chimie Organicã + Biologie (80%);LMU Munich (Germania) / KU Leuven;1. Bacalaureat chimie/biologie (min. 9.0);Practicã de 6 luni într-o farmacie comunitarã ?i laborator de preparare.;1500
+;;;;;;;;
+;;;;2. Medie Bacalaureat (20%);;2. Testul de limba germanã TestDaF Nivel 4 sau IELTS 7.0;;
+14;INVESTIGATIV;Stomatolog;UMF Carol Davila / UMF Cluj - Medicinã Dentarã (6 ani);1. Examen grilã Biologie + Chimie (80%);ACTA Amsterdam (Olanda) / Karolinska;1. Bacalaureat Real (min 9.0);Efectuarea a minim 50 de manopere stoma pe simulator ?i pacien?i sub supraveghere.;2200
+;;;;;;;;
+;;;;2. Medie Bacalaureat (20%);;2. Examen clinic simulat / Interviu de admitere;;
+;;;;;;;;
+;;;;;;3. Certificat limba englezã/olandezã;;
+15;INVESTIGATIV;Matematician;UNIBUC / UBB - Facultatea de Matematicã ?i Informaticã;1. Examen scris Matematicã (80%);University of Cambridge / École Polytechnique (Fran?a);1. Bacalaureat Mate M1 (nota 10 sau min 9.5);Redactarea unei lucrãri de cercetare în matematicã purã sau aplicatã.;1700
+;;;;;;;;
+;;;;2. Medie Bacalaureat (20%);;2. Examen STEP (Cambridge) / Test de Matematicã avansatã;;
+16;INVESTIGATIV;Chimist;UNIBUC / UBB - Facultatea de Chimie;1. Concurs de dosar (Nota Bac la Chimie/Mate);University of Strasbourg (Fran?a) / TU Munich;1. Bacalaureat profil Real (min 8.5);Minim 200 ore de laborator chimic ?i analizã de spectronomie.;1300
+;;;;;;;;
+;;;;2. Test grilã de nivel;;2. Certificat limbã englezã/francezã B2/C1;;
+17;INVESTIGATIV;Geograf;UNIBUC / UBB - Facultatea de Geografie;1. Medie Bacalaureat (Concurs de dosar);Utrecht University (Olanda) - Human/Physical Geography;1. Bacalaureat medie min. 8.0;Realizarea unei hãr?i digitale tematice folosind sisteme GIS.;1100
+;;;;;;;;
+;;;;2. Stãpânirea softurilor GIS (ArcGIS/QGIS);;2. Certificat IELTS 6.5;;
+;;;;;;;;
+;;;;;;3. Eseu de cercetare geograficã;;
+18;INVESTIGATIV;Fizician;UNIBUC / UBB - Facultatea de Fizicã;1. Examen scris / Concurs dosar (Nota Bac Fizicã/Mate);CERN Summer Student Program / Heidelberg Univ.;1. Bacalaureat Mate-Fizicã (min 9.0);Participarea la un experiment de laborator cu acceleratoare de particule sau laser.;1600
+;;;;;;;;
+;;;;2. Masterat în Fizicã Medicalã/Nuclearã;;2. Test de fizicã teoreticã ?i limbã englezã C1;;
+19;INVESTIGATIV;Psiholog;UNIBUC / UBB - Facultatea de Psihologie;1. Examen grilã Psihologie/Gândire Criticã;Utrecht University / KU Leuven;1. Bacalaureat medie generalã min 8.5;Minim 250 ore de dezvoltare personalã ?i supervizare psihologicã.;1400
+;;;;;;;;
+;;;;2. Atestat de la Colegiul Psihologilor (COPSI);;2. Certificat IELTS 7.0;;
+;;;;;;;;
+;;;;;;3. Scrisoare de inten?ie clinicã;;
+20;ARTISTIC;Scriitor / Editor;UNIBUC / UBB - Facultatea de Litere (Litere / Crea?ie Literarã);1. Concurs de dosar (Nota Bac Românã);University of Iowa (Writers' Workshop) / UEA Norwich;1. Portofoliu de prozã/poezie în englezã;Redactarea ?i editarea unui manuscris de min. 50 de pagini.;1100
+;;;;;;;;
+;;;;2. Prezentarea unui portofoliu de texte;;2. Scrisoare de recomandare de la critici literari;;
+;;;;;;;;
+;;;;;;3. IELTS 7.5;;
+21;ARTISTIC;Actor;UNATC Bucure?ti / PIB Cluj - Teatru (Actorie);1. Probã eliminatorie de atitudine ?i voce;RADA (Royal Academy of Dramatic Art) Londra;1. Auditie live/video (3 monologuri din Shakespeare ?i piese moderne);Interpretarea unui rol principal într-o piesã de teatru universitarã.;1200
+;;;;;;;;
+;;;;2. Examen practic: Monolog, Poezie, Povestire;;2. Interviu intensiv;;
+;;;;;;;;
+;;;;3. Probã de ritm ?i muzicã;;3. IELTS 7.5;;
+22;ARTISTIC;Fotograf;UNARTE (Fotografie ?i Video) / Curs Calificare Autorizat;1. Portofoliu de 15 fotografii artistice;Royal Academy of Art (KABK) Haga / ECAL Elve?ia;1. Portofoliu conceptual fotoreportaj/artistic;Realizarea unei expozi?ii foto personale sau a unui proiect editorial.;1100
+;;;;;;;;
+;;;;2. Probã practicã de studio ?i de procesare foto;;2. Interviu de sus?inere a muncii vizuale;;
+;;;;;;;;
+;;;;;;3. IELTS 6.5;;
+23;ARTISTIC;Arhitect;UAUIM Bucure?ti / UTCN - Arhitecturã (6 ani);1. Examen na?ional riguros de desen tehnic ?i liber (5 ore);AA School of Architecture Londra / TU Delft;1. Portofoliu grafic ?i machete arhitecturale;Elaborarea proiectului complet de arhitecturã pentru o clãdire publicã.;1500
+;;;;;;;;
+;;;;2. Medie Bacalaureat (min. 6.0);;2. Bacalaureat min 8.5;;
+;;;;;;;;
+;;;;;;3. Certificat IELTS 7.0;;
+24;ARTISTIC;Dansator / Coregraf;UNATC (Coregrafie) / Liceul de Coregrafie;1. Probã practicã de dans clasic ?i contemporan;Codarts University for the Arts (Rotterdam);1. Audi?ie fizicã de dans (clasic, modern, improviza?ie);Crearea ?i punerea în scenã a unui spectacol de coregrafie de 15 minute.;1000
+;;;;;;;;
+;;;;2. Examen de aptitudini fizice ?i muzicale;;2. Evaluare medicalã osteo-articularã;;
+25;ARTISTIC;Designer de Modã;UNARTE Bucure?ti / UAD Cluj - Moda / Design Vestimentar;1. Mapã de schi?e vestimentare originale;Central Saint Martins (Londra) / Polimoda Floren?a;1. Portofoliu de colec?ie vestimentarã ?i moodboard;Croirea ?i prezentarea unei colec?ii capsulã de 5 ?inute pe podium.;1300
+;;;;;;;;
+;;;;2. Probã practicã la salã (Desen ?i Culoare);;2. Interviu motiva?ional;;
+;;;;;;;;
+;;;;;;3. IELTS 6.5;;
+26;ARTISTIC;Jurnalist;FJSC Bucure?ti / UBB Cluj - Jurnalism;1. Concurs de dosar (Nota Bac Românã/Istorie);Columbia Journalism School (USA) / Sciences Po;1. Portofoliu de articole publicate;Publicarea a minim 10 anchete sau articole de presã într-o publica?ie.;1100
+;;;;;;;;
+;;;;2. Test de redactare ?i culturã generalã;;2. Examen de scriere jurnalisticã contra cronometru;;
+;;;;;;;;
+;;;;;;3. TOEFL 100+;;
+27;SOCIAL;Sociolog;UNIBUC / UBB - Facultatea de Sociologie;1. Concurs de dosar (Medie Bacalaureat);LSE (London School of Economics) / Sciences Po;1. Bacalaureat medie generalã peste 8.8;Colectarea de date prin sondaj de opinie ?i analiza lor în SPSS.;1200
+;;;;;;;;
+;;;;2. Cuno?tin?e de statisticã (SPSS/R);;2. Eseu pe o temã de sociologie contemporanã;;
+;;;;;;;;
+;;;;;;3. IELTS 7.0;;
+28;SOCIAL;Profesor;Facultate de Profil (Litere/Mate) + Modul Pedagogic I & II;1. Licen?ã în domeniul predat;UCL Institute of Education (UK);1. Licen?ã de profil (min 8.5);Minim 60 ore de predare la clasã sub îndrumarea unui profesor mentor.;1100
+;;;;;;;;
+;;;;2. Examen Na?ional de Titularizare (Scris min 7.0);;2. Certificat de predare PGCE;;
+;;;;;;;;
+;;;;;;3. Test de calitã?i pedagogice;;
+29;SOCIAL;Logoped;UNIBUC / UBB - Psihopedagogie Specialã / Master Logopedie;1. Bacalaureat;University of Sheffield - Speech and Language;1. Licen?ã în Psihologie/Lingvisticã;Corectarea tulburãrilor de limbaj pentru minim 5 pacien?i copii/adul?i.;1200
+;;;;;;;;
+;;;;2. Examen grilã/dosar;;2. Voluntariat documentat cu copii;;
+;;;;;;;;
+;;;;3. Masterat de specializare în Logopedie;;3. IELTS 7.5;;
+30;SOCIAL;Consilier Personal / Coach;Facultatea de Psihologie / Sociologie + Curs Acreditat ANC;1. Diplomã de licen?ã în ?tiin?e umane;International Coaching Federation (ICF);1. Parcurgerea unei ?coli de coaching acreditate ACTP;Derularea a minim 50 de ?edin?e individuale de consiliere supervizate.;1300
+;;;;;;;;
+;;;;2. Curs de formare în Consiliere/Coaching (min 180 ore);;2. Minim 100 ore de practicã de coaching dovedite;;
+31;SOCIAL;Administrator Sanitar / ONG;Facultatea de Administra?ie Publicã / Management Sanitar;1. Concurs de dosar (Medie Bacalaureat);Erasmus University Rotterdam - Health Economics;1. Licen?ã în economie/medicinã;Coordonarea unui buget administrativ pentru un spital sau proiect ONG.;1400
+;;;;;;;;
+;;;;2. Examen de legisla?ie în sãnãtate / ONG;;2. Scrisoare de motiva?ie pentru sectorul public;;
+;;;;;;;;
+;;;;;;3. IELTS 7.0;;
+32;SOCIAL;Antrenor Sportiv;UNEFS Bucure?ti / ?coala Na?ionalã de Antrenori;1. Probã practicã motricã ?i sportivã pe ramurã;German Sport University Cologne (Germania);1. Performan?ã sportivã doveditã (legitima?ie sportiv);Antrenarea unei echipe de juniori pe parcursul unui sezon competi?ional.;1100
+;;;;;;;;
+;;;;2. Medie Bacalaureat;;2. Test de aptitudini fizice ?i examen fiziologie;;
+;;;;;;;;
+;;;;3. Carnet de antrenor;;3. B2/C1;;
+33;INTREPRINZATOR;Broker Financiar;ASE Bucure?ti (Finan?e-Bãnci) + Certificare ASF;1. Licen?ã de economie/ASE;Frankfurt School of Finance / LSE;1. Bacalaureat min 8.5 (Mate M1);Tranzac?ionarea pe platforme bursiere demo/reale ?i analizã tehnicã.;1800
+;;;;;;;;
+;;;;2. Examen de atestare Autoritatea de Supraveghere Financiarã;;2. Examen GMAT (scor > 600);;
+;;;;;;;;
+;;;;;;3. Certificat IELTS 7.0;;
+34;INTREPRINZATOR;Avocat;Facultatea de Drept (4 ani) + Examen Barou (INPPA);1. Examen grilã admitere Drept (UNIBUC/UBB);Harvard Law School / Cambridge LL.M.;1. Licen?ã în Drept cu medii excelente;Stagiatura de 2 ani într-un cabinet de avocaturã sub îndrumarea unui maestru.;2000
+;;;;;;;;
+;;;;2. Examen Na?ional de Admitere în Barou (100 grile);;2. Examen LSAT / TOEFL 105+;;
+;;;;;;;;
+;;;;;;3. Scrisori de recomandare de la judecãtori/profesori;;
+35;INTREPRINZATOR;Specialist PR;FJSC Bucure?ti / SNSPA - Rela?ii Publice ?i Comunicare;1. Medie Bacalaureat;University of Amsterdam (Communication Science);1. Bacalaureat medie min. 8.5;Organizarea unei conferin?e de presã ?i lansarea unei campanii de PR.;1300
+;;;;;;;;
+;;;;2. Eseu motiva?ional / Test de creativitate ?i comunicare;;2. Portofoliu de comunicare sau campanii ?colare;;
+;;;;;;;;
+;;;;;;3. IELTS 7.0;;
+36;INTREPRINZATOR;Director / Manager;ASE Bucure?ti (Management) / Cursuri Executive MBA;1. Medie Bacalaureat;INSEAD (Fran?a) / LBS (London Business School);1. Minim 5 ani experien?ã de management doveditã;Gestionarea unui buget operativ ?i atingerea obiectivelor de profit (KPI).;2500
+;;;;;;;;
+;;;;2. Experien?ã practicã de conducere (min 3-5 ani în domeniu);;2. Examen GMAT (scor > 680);;
+;;;;;;;;
+;;;;;;3. Interviuri de leadership;;
+37;INTREPRINZATOR;Vânzãtor Automobile;Liceu / Facultate de Inginerie/Business + Curs Vânzãri;1. Permis de conducere Cat. B;Northwood University (USA) - Automotive Management;1. Bacalaureat;Vânzarea directã ?i predarea a minim 10 autovehicule în showroom.;1400
+;;;;;;;;
+;;;;2. Cursuri de tehnici de negociere ?i cuno?tin?e auto;;2. Permis de conducere interna?ional;;
+;;;;;;;;
+;;;;;;3. Test de aptitudini comerciale ?i interviu;;
+38;INTREPRINZATOR;Barman;Curs de Calificare Barman Acreditat (?coalã HORECA);1. Absolvire minim 10 clase;European Bartender School (EBS);1. Curs intensiv de mixologie ?i flair bartending (4 sãptãmâni);Crearea unei re?ete de cocktail original ?i servirea rapidã la bar.;1000
+;;;;;;;;
+;;;;2. Certificat de igienã alimentarã;;2. Examen practic de preparare contra cronometru;;
+;;;;;;;;
+;;;;3. Practicã de preparare mixologie;;;;
+39;CONVENTIONAL;Contabil;ASE Bucure?ti (CIG) + Examen CECCAR (Expert Contabil);1. Admitere ASE (Medie Bacalaureat);ACCA (Association of Chartered Certified Accountants);1. Echivalare studii economice;Întocmirea bilan?ului contabil ?i a declara?iilor fiscale pentru o firmã.;1500
+;;;;;;;;
+;;;;2. Examen Na?ional CECCAR de acces la stagiu;;2. Promovarea celor 13 examene de modul ACCA în englezã;;
+40;CONVENTIONAL;Casier;Liceu Economic / Curs de calificare Casier-Operator;1. Diplomã de Bacalaureat / 10 clase;Vocational Retail Training (Germany/UK);1. Diplomã studii medii;Gestionarea registrului de casã ?i închiderea zilnicã de sertar.;900
+;;;;;;;;
+;;;;2. Cuno?tin?e operare case de marcat ?i POS;;2. Verificare antecedente judiciare (Cazier curat);;
+41;CONVENTIONAL;Analist Financiar;ASE Bucure?ti (Finan?e-Bãnci / FABIZ) + Certificare CFA;1. Admitere ASE (Medie Bac + Test Mate/Englezã);LSE (London School of Economics) - Finance;1. Bacalaureat profil Real (medie > 9.0);Construirea unui model financiar de evaluare a unei companii listate.;1900
+;;;;;;;;
+;;;;2. Promovarea examenelor CFA Level 1, 2, 3;;2. Testul GMAT / GRE;;
+;;;;;;;;
+;;;;;;3. Certificat IELTS 7.0;;
+42;CONVENTIONAL;Inspector Bancar;ASE / Facultatea de Economie ?i Administrarea Afacerilor;1. Licen?ã în economie/bãnci;Frankfurt School of Finance & Management;1. Licen?ã economie/drept;Auditarea unui dosar de creditare ?i evaluarea riscului de neplatã.;1400
+;;;;;;;;
+;;;;2. Teste interne de conformitate ?i audit financiar;;2. Limba germanã/englezã avansat;;
+;;;;;;;;
+;;;;;;3. Interviu de conformitate;;
+43;CONVENTIONAL;Secretar / Asistent Executiv;Liceu / Facultatea de Administrarea Afacerilor / Curs Secretariat;1. Bacalaureat;Pitman Training (UK) - Executive PA Diploma;1. Certificat de operare PC ?i limba englezã B2/C1;Gestionarea coresponden?ei oficiale ?i organizarea unei ?edin?e de consiliu.;1000
+;;;;;;;;
+;;;;2. Test de dactilografie rapidã ?i pachetul MS Office;;2. Test de organizare agenda executivã;;
+44;CONVENTIONAL;Operator Telefonist;Curs Call Center / Liceu;1. Diplomã de Bacalaureat;International Customer Service Institute (ICSI);1. Certificat limba englezã/francezã/germanã B2/C1;Preluarea ?i rezolvarea a minim 50 de apeluri de suport clien?i pe zi.;900
+;;;;;;;;
+;;;;2. Test de dictare, aten?ie distributivã ?i limbi strãine;;2. Test de operare softuri CRM;;
+45;CONVENTIONAL;Asistent Bibliotecar;UNIBUC / UBB - Facultatea de Litere (Biblioteconomie);1. Medie Bacalaureat;Humboldt University Berlin - Library Sciences;1. Licen?ã în umane/informaticã;Indexarea ?i catalogarea digitalã a unui fond de 100 de cãr?i rare.;1000
+;;;;;;;;
+;;;;2. Curs de calificare în arhivisticã ?i catalogare;;2. Test de clasificare Z39.50/MARC21;;
+;;;;;;;;
+;;;;;;3. Limba germanã B2;;
+46;CONVENTIONAL;Grefier;?coala Na?ionalã de Grefieri (SNG) / Facultatea de Drept;1. Examen Na?ional SNG (Procedurã Civilã, Penalã, Org. Judiciarã);National Center for State Courts (NCSC) SUA;1. Licen?ã în drept/administra?ie;Redactarea procesului-verbal al unei ?edin?e de judecatã în timp real.;
+;;;;;;;;
+;;;;2. Test de dactilografie;;2. Verificare integritate judiciarã;;
+;;;;;;;;
+;;;;;;3. Englezã nivel legal;;
